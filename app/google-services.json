@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588212277821",
+    "project_id": "citizens-portal-92b6e",
+    "storage_bucket": "citizens-portal-92b6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588212277821:android:a270163300ce83196c1054",
+        "android_client_info": {
+          "package_name": "com.example.citizensportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588212277821-u9o546ehnipjutulpdg8rlh5o4eih7ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIPiUEOGmAHcTB95evd3eu4Ghgb61-TyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588212277821-u9o546ehnipjutulpdg8rlh5o4eih7ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

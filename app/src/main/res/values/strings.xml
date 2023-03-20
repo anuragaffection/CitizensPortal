@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Citizens Portal</string>
+    <string name="Citizens">Citizen</string>
+    <string name="Portal">Portal</string>
+    <string name="signup">SignUp</string>
+    <string name="sign_up">SignUp</string>
+    <string name="already_have_an_account">already have an account</string>
+    <string name="login">Login</string>
+    <string name="register">Register!</string>
+    <string name="dont_t_have_an_account">Dont\'t have an account?.</string>
+    <string name="report">"Report Issue "</string>
+    <string name="txtReport">Choose an Issue</string>
+    <string name="txtLocation">Enter Location</string>
+    <string name="fullLocation">RoadName, AreaName, PS, Dist</string>
+    <string name="submitReport">Submit Report</string>
+    <string name="log_in">Log - in</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
 </resources>
