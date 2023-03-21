@@ -33,7 +33,7 @@
         app:layout_constraintVertical_chainStyle="packed">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/lEmail"
+            android:id="@+id/anuEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@android:color/transparent"
@@ -56,7 +56,7 @@
         app:layout_constraintTop_toBottomOf="@+id/edtEmail">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/lPassword"
+            android:id="@+id/anuPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@android:color/transparent"

@@ -89,7 +89,7 @@ public class PageSignUp extends AppCompatActivity {
                 }
 
 
-        mAuth.createUserWithEmailAndPassword(email, password)
+        mAuth.createUserWithEmailAndPassword(emailGet, passwordGet)
                 .addOnCompleteListener(new OnCompleteListener<AuthResult>() {
 
                     @Override

@@ -16,4 +16,7 @@
     <string name="log_in">Log - in</string>
     <string name="password">Password</string>
     <string name="email">Email</string>
+    <string name="prevAcceleration">Previous Acceleration</string>
+    <string name="CurrentAcceleration">Current Acceleration</string>
+    <string name="Acceleration">Acceleration</string>
 </resources>
